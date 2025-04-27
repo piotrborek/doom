@@ -84,6 +84,6 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
-(add-to-list 'default-frame-alist '(width . 160))
-(add-to-list 'default-frame-alist '(height . 47))
+(add-to-list 'default-frame-alist '(width . 173))
+(add-to-list 'default-frame-alist '(height . 51))
 
