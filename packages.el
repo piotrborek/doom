@@ -49,3 +49,4 @@
 ;; (unpin! t(use-package dashboard
 ;;
 
+(package! nerd-icons)

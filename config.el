@@ -87,3 +87,4 @@
 (add-to-list 'default-frame-alist '(width . 173))
 (add-to-list 'default-frame-alist '(height . 51))
 
+(setq neo-theme (if (display-graphic-p) 'nerd-icons 'arrow))
